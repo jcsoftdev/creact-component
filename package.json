@@ -1,6 +1,6 @@
 {
   "name": "@jcsoftdev/creact-component",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "CReact Create component, It's a command line interface to create components easily for react",
   "main": "./bin/index.js",
   "bin": {
