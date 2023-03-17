@@ -1,0 +1,17 @@
+{
+  "name": "@jcsoftdev/creact-component",
+  "version": "0.0.50",
+  "description": "CReact Create component, It's a command line interface to create components easily for react",
+  "main": "./bin/index.js",
+  "bin": {
+    "creact-component": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-create-component"
+  ],
+  "author": "Juan Carlos",
+  "license": "ISC"
+}
